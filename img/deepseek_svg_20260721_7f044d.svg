@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+    <rect x="10" y="15" width="80" height="70" rx="6" fill="#F5E6C8" stroke="#B8A07A" stroke-width="3"/>
+    <rect x="18" y="25" width="64" height="50" rx="4" fill="#E8D5B8" stroke="#B8A07A" stroke-width="2" stroke-dasharray="4,4"/>
+    <text x="30" y="55" font-size="30" fill="#8A7A5A">🎫</text>
+    <text x="35" y="80" font-size="12" fill="#8A7A5A" font-weight="bold" letter-spacing="2">ВХОД</text>
+    <text x="45" y="12" font-size="16" fill="#B8A07A">✦</text>
+</svg>
